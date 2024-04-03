@@ -1,4 +1,15 @@
 {
     "hats": [
+        {
+            "author": "Vitaxses",
+            "bounce": true,
+            "climbresource": "Stickers_climb.png",
+            "condition": "None",
+            "name": "Stickers",
+            "package": "Developer Hats",
+            "reshasha": "a1d",
+            "reshashc": "76",
+            "resource": "Stickers.png"
+        }
             ]
 }
