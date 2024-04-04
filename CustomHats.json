@@ -3,12 +3,10 @@
         {
             "author": "Vitaxses",
             "bounce": false,
-            "climbresource": "Stickers_climb.png",
             "condition": "None",
             "name": "Stickers",
             "package": "Developer Hats",
             "reshasha": "2238f4f2c9ac08e0f7b5cf86a4ebfe46",
-            "reshashc": "122548s15kii",
             "resource": "Stickers.png"
         }
             ]
