@@ -10,6 +10,17 @@
             "reshasha": "2238f4f2c9ac08e0f7b5cf86a4ebfe46",
             "reshashc": "967f6c0d1fdbf387b361cd52f3bc3dda",
             "resource": "Stickers.png"
+        },
+        {
+            "author": "Vitaxses",
+            "bounce": false,
+            "climbresource": "LavaWalker_climb.png",
+            "condition": "None",
+            "name": "Lava Walker",
+            "package": "Developer Hats",
+            "reshasha": "c4ba19e47bf3d041eac69e70e1458955",
+            "reshashc": "725cbcd2e0424826b51cec17a35ebc72",
+            "resource": "LavaWalker.png"
         }
             ]
 }
