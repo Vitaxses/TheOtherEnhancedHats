@@ -2,6 +2,8 @@
     "hats": [
         {
             "author": "Vitaxses",
+            "bounce": false,
+            "climbresource": "Stickers_climb.png",
             "condition": "None",
             "name": "Stickers",
             "package": "Developer Hats",
